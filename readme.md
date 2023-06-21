@@ -1,0 +1,1 @@
+This project is all about creating a simple registration form where any user can input emails and password and register.. pls remember it is just a sample and cannot do take up datas.
